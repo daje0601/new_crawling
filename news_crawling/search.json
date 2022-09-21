@@ -1,0 +1,8 @@
+{
+    "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36", 
+    "keyword": "'규제과학'", 
+    "url": "http://naver.com", 
+    "tab": "뉴스", 
+    "tab_xpath": "//*[@id='lnb']/div[1]/div/ul/li[8]/a"
+}
+
